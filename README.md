@@ -11,6 +11,8 @@
 
 ## Running
   1. run mock AI
+     ```bash
      node src/mock-ai.js
   2. run the server
+      ```bash
      node src/server.js
